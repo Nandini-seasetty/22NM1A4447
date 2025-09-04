@@ -11,7 +11,7 @@ This is a URL Shortener web application built with React and TypeScript. The app
 ## Project Structure
 
 ```
-url-shortener-app
+frontend test submission
 ├── public
 │   └── index.html          # Main HTML file
 ├── src
